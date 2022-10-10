@@ -1,0 +1,71 @@
+html {
+  overflow-x: hidden;
+}
+
+
+.headline{
+  color: white;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  position: relative;
+  margin-left: 20px;
+  margin-right: 60px;
+}
+
+.stars {
+  color: white;
+  padding-right: 30px;
+  position: relative;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+
+.content {
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  position: relative;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+nav {
+  position: fixed;
+  top: 0px;
+  margin-right: 50px;
+}
+
+.topic {
+  color: white;
+  margin-top: 200px;
+
+
+}
+
+.section {
+  position: relative;
+  margin-left: 30px;
+  margin-right: 60px;
+  margin-top: 200px;
+
+}
+
+
+
+.sides {
+left: 30px;
+padding-right: 100px;
+}
+
+.text {
+  color: white;
+}
+.schrift:hover {
+  color: yellow;
+}
+
+.title {
+  margin-top: 20px;
+}
